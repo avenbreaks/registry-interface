@@ -1,14 +1,12 @@
 # TheRegistry Interface
 
-[Link to the Solidity code](https://github.com/nashidahmed/registry-core)
+[Link to the Solidity code](https://github.com/avenbreaks/registry-contracts)
 
 [Live demo](https://the-registry.vercel.app/)
 
 Herein lies the frontend code for The Registry
 
 ### Welcome to TheRegistry: Secure and Seamless Document Management
-
-#### Built for the ETHOnline 2023 hackathon.
 
 At TheRegistry, we're transforming the way documents are issued and managed, making the process secure, efficient, and user-friendly. Say goodbye to traditional paper documents and complex blockchain interactions. With our platform, you can effortlessly request and access your digital documents.
 
